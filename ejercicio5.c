@@ -1,5 +1,5 @@
 /*Enrique Mena Hernández
-programa 4*/
+programa 5*/
 
 #include <stdio.h>
 #include <string.h>
