@@ -1,5 +1,4 @@
-/*Enrique Mena Hernández
-programa 1*/
+/*Enrique Mena Hernández*/
 
 //############## calculadora.c ##############
 #include <stdio.h>
