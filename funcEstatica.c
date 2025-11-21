@@ -1,4 +1,4 @@
-
+/*Enrique Mena Hernández*/
 
 //############## funcEstatica.c ##############
 #include <stdio.h>
